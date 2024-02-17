@@ -15,9 +15,9 @@ created: vite react js
 - author name and email
 - components folder
 
-!
 
-- npm i
+- npm i + run dev
+    + npm i:
 - modern normalize
 - react icons
 - clsx
