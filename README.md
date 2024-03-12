@@ -21,3 +21,13 @@ created: vite react js
 - modern normalize
 - react icons
 - clsx
+- react-router-dom
+- axios
+- formik
+- yup
+
+
+imports: 
+- axios from "axios"
+- * as Yup from "yup"
+- {Formik, Form, Field, ErrorMessage} from "formik"
